@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Subhash Reddy </p>
+logo: /assets/img/logo.jpg
+
+description:
+  <p align="center">
+  
+  
+  <br>   
+  Im getting trained on Machone learning course
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
